@@ -1,0 +1,14 @@
+---
+description: Creating a webscrapping bot.
+globs: *.tsx, src/**/*
+---
+
+# Building a bot in typescript to scrape for events information.
+
+- We are in a nextjs app router       project.
+- Follow the tasks in [tasks.md](mdc:tasks.md). Finsih one and let me know before going on to the next one.
+- Create a barbones implementation.
+- scrape the website and get data of following categories.
+- for date processing we will use open ai apis.
+- get the following date from the website name,	description,	banner_image_link,	startsAt,	endsAt,	address,	city,	country,	type_of_event,	tags,	twitter,	discord,	telegram,	name,	
+- store data in a json.
